@@ -1,70 +1,74 @@
-# SmartExam – Exam Scheduling System
+# 🎓 SmartExam – Exam Scheduling System
 
-## About the Project
+## 📌 About the Project
 
-SmartExam is a project that helps colleges and universities schedule their examinations.
+SmartExam is an exam scheduling system designed to help colleges and universities organize and manage their examinations efficiently.
 
-When exams are planned, several things need to be considered. Students should not have two exams at the same time. Rooms should have enough seating capacity. Required equipment should be available, and invigilators should be free during the examination.
+Scheduling examinations involves several important constraints. Students should not have overlapping examinations, rooms must have sufficient seating capacity, required equipment must be available, and invigilators must be free during the examination.
 
-This project brings these details together and helps make exam scheduling easier.
+SmartExam brings these requirements together to automate examination scheduling while respecting student enrollments, room capacity, accessibility accommodations, equipment requirements, and invigilator availability.
 
-It also explains why an exam was assigned to a room or why it could not be scheduled.
+The system also identifies scheduling conflicts and provides reasons when an examination cannot be scheduled.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-I developed this project using the following technologies:
+The project is developed using the following technologies:
 
-- Java 17
-- Spring Boot
-- PostgreSQL
-- Spring Data JPA
-- Maven
-- Python
-- Postman
-- Git and GitHub
+- ☕ Java 17
+- 🍃 Spring Boot
+- 🐘 PostgreSQL
+- 🔗 Spring Data JPA
+- 📦 Maven
+- 🐍 Python
+- 🧪 Postman
+- 🌐 Git and GitHub
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 SmartExam/
 │
 ├── backend/
 │   ├── src/
-│   └── pom.xml
-│
-├── generator/
-│   └── generator.py
+│   │   ├── main/
+│   │   └── test/
+│   ├── pom.xml
+│   └── mvnw
 │
 ├── data/
-│   └── generated/
+│   ├── generated/
+│   └── manifest_first.json
 │
 ├── docs/
 │   └── data_dictionary.md
 │
+├── generator/
+│   └── generator.py
+│
 ├── prompts/
 │   └── AI_USAGE.md
 │
-├── frontend/
-│
+├── .gitignore
 └── README.md
 ```
 
-## Main Features
+## 🚀 Main Features
 
-- Manage student information.
-- Manage courses and student enrollments.
-- Create and manage examinations.
-- Maintain examination rooms and their capacity.
-- Manage invigilators.
-- Record room equipment and availability.
-- Record invigilator availability.
-- Store student accommodation requirements.
-- Assign rooms and invigilators to examinations.
-- Identify scheduling conflicts.
-- Provide a reason when an examination cannot be assigned.
-- Generate sample data for testing.
+- 👨‍🎓 Manage student information.
+- 📚 Manage courses and student enrollments.
+- 📝 Create and manage examinations.
+- 🏫 Manage examination rooms and seating capacity.
+- 👨‍🏫 Manage invigilators.
+- 🖥️ Track room equipment and availability.
+- 📅 Track invigilator availability.
+- ♿ Handle student accommodation requirements.
+- 🗓️ Automatically assign rooms and invigilators to examinations.
+- ⚠️ Detect student, room, and invigilator scheduling conflicts.
+- 📋 Identify unscheduled examinations and provide decision reasons.
+- 📊 Validate saved examination schedules.
+- 📂 Generate reproducible sample datasets for testing.
 
-## Database Setup
+## 🗄️ Database Setup
 
 First, install PostgreSQL and create a database named `smartexam`.
 
@@ -72,23 +76,55 @@ First, install PostgreSQL and create a database named `smartexam`.
 CREATE DATABASE smartexam;
 ```
 
-Update the database connection settings in:
+Configure the database connection in:
 
 `backend/src/main/resources/application.properties`
 
-Set the database username and password using environment variables. Do not upload database passwords to GitHub.
+Use environment variables for database credentials:
 
-## How to Run the Backend
+```properties
+spring.application.name=SmartExam
 
-Open a terminal inside the `backend` folder.
+spring.datasource.url=${DB_URL:jdbc:postgresql://localhost:5432/smartexam}
+spring.datasource.username=${DB_USERNAME:postgres}
+spring.datasource.password=${DB_PASSWORD}
 
-Run:
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=false
+spring.jpa.properties.hibernate.format_sql=true
+
+server.port=8080
+```
+
+⚠️ **Security:** Never commit database passwords, API keys, or other sensitive credentials to GitHub.
+
+## ▶️ How to Run the Backend
+
+**Step 1: Open the backend directory**
+
+```bash
+cd backend
+```
+
+**Step 2: Build the application**
 
 ```bash
 mvn clean package
 ```
 
-After the build completes, start the application:
+**Step 3: Configure database environment variables**
+
+On Windows PowerShell:
+
+```powershell
+$env:DB_USERNAME="postgres"
+$env:DB_URL="jdbc:postgresql://localhost:5432/smartexam"
+$env:DB_PASSWORD="YOUR_DATABASE_PASSWORD"
+```
+
+Replace the password with your actual PostgreSQL password.
+
+**Step 4: Start the Spring Boot application**
 
 ```bash
 mvn spring-boot:run
@@ -98,99 +134,169 @@ The backend will run at:
 
 `http://localhost:8080`
 
-You can check whether the application is running using:
+**Health Check**
 
-`GET http://localhost:8080/api/health`
+```http
+GET http://localhost:8080/api/health
+```
 
-## API Endpoints
+A successful response confirms that the backend is running.
 
-The main API endpoints are:
+## 🔌 API Endpoints
+
+The following are the main API endpoints available in the project.
 
 | Module | Endpoint |
 |---|---|
+| Health Check | `GET /api/health` |
 | Students | `/api/students` |
 | Courses | `/api/courses` |
 | Enrollments | `/api/enrollments` |
-| Exams | `/api/exams` |
+| Examinations | `/api/exams` |
 | Rooms | `/api/rooms` |
 | Invigilators | `/api/invigilators` |
 | Exam Requirements | `/api/exam-requirements` |
 | Room Equipment | `/api/room-equipment` |
 | Room Availability | `/api/room-availability` |
 | Invigilator Availability | `/api/invigilator-availability` |
-| Schedule Assignments | `/api/scheduling/assignments` |
+| Schedule Assignments | `GET /api/scheduling/assignments` |
+| Schedule Validation | `GET /api/validation/schedule` |
 
-To schedule an individual examination:
+**Schedule an Individual Examination**
 
-```text
+```http
 POST /api/scheduling/exam/{examId}
 ```
 
-These endpoints can be tested using Postman.
+**Run the Scheduling Process**
 
-## Generating Sample Data
+```http
+POST /api/scheduling/run
+```
 
-I have included a Python script to generate sample data.
+**Validate the Saved Schedule**
 
-From the main project folder, run:
+```http
+GET /api/validation/schedule
+```
+
+The APIs can be tested using Postman.
+
+## 🧪 Sample Data Generation
+
+A Python data generator is included to create reproducible sample datasets.
+
+From the main project directory, run:
 
 ```bash
 python generator/generator.py
 ```
 
-The generator uses a fixed random seed (`20261022`) so that the same input produces repeatable data.
+The generator uses a fixed random seed (`20261022`) to produce repeatable datasets.
 
-It generates:
+**Generated Dataset Overview**
 
-- 5,000 students
-- 50 courses
-- 15,000 enrollments
-- 300 examinations
-- 100 rooms
-- 200 invigilators
-- Examination requirements
-- Room equipment
-- Room availability
-- Invigilator availability
-- Student accommodations
-- Candidate schedule assignments
+| Dataset | Records |
+|---|---:|
+| Students | 5,000 |
+| Courses | 50 |
+| Enrollments | 15,000 |
+| Examinations | 300 |
+| Rooms | 100 |
+| Invigilators | 200 |
+| Exam Requirements | 300 |
+| Room Equipment | 147 |
+| Room Availability | 1,000 |
+| Invigilator Availability | 2,000 |
+| Student Accommodations | 100 |
+| Candidate Schedule Assignments | 300 |
 
-The generated files are saved in `data/generated/` in CSV and JSON formats.
+Generated CSV and JSON files are stored in:
 
-A separate file contains descriptions of five test scenarios, including student conflicts, room capacity problems, invigilator conflicts, accommodation requirements and room availability issues.
+`data/generated/`
 
-## Testing
+A separate ground-truth dataset describes five test scenarios involving:
 
-I used Postman to test the backend APIs.
+- Student examination conflicts.
+- Room capacity violations.
+- Invigilator scheduling conflicts.
+- Student accommodation requirements.
+- Room availability restrictions.
 
-I checked the creation and retrieval of records and tested the scheduling endpoint with different room and availability conditions.
+ℹ️ Candidate assignments generated by the Python script are sample data, not guaranteed conflict-free schedules. Final scheduling decisions are handled by the backend scheduling service.
 
-I also ran the Python generator successfully and checked its validation results.
+## ✅ Testing and Validation
 
-The generator creates candidate assignments. These should not be treated as final, conflict-free scheduling results. The actual scheduling decisions are made by the backend scheduling service.
+The backend was tested using Postman and PostgreSQL.
 
-## Current Limitations
+The following checks were performed:
 
-- The sample data is generated for testing and does not represent real students.
-- The generator creates candidate assignments rather than final approved schedules.
-- More automated tests and larger-scale performance testing are still needed.
-- Authentication and role-based access can be added in a future version.
-- The project needs further testing before being used in a real college environment.
+- Backend application startup and database connectivity.
+- REST API record creation and retrieval.
+- Examination scheduling and assignment persistence.
+- Room capacity validation.
+- Student examination conflict validation.
+- Invigilator availability and double-booking validation.
+- Room availability and equipment requirements.
+- Student accommodation requirements.
+- Unscheduled examination reasons.
+- Reproducibility of generated sample datasets.
 
-## Future Improvements
+**Schedule Validation Example**
 
-Some improvements I would like to make are:
+```json
+{
+  "totalAssignments": 3,
+  "scheduled": 3,
+  "valid": 3,
+  "invalid": 0,
+  "unscheduled": 0,
+  "hardConstraintViolations": 0,
+  "overallStatus": "PASSED"
+}
+```
 
-- Build a complete frontend for administrators.
-- Add reports showing scheduled and unscheduled examinations.
-- Improve scheduling performance for larger datasets.
-- Add automated tests for all scheduling conflicts.
-- Add user login and role-based permissions.
+This is an example of a successful validation result from the tested sample schedule, not a claim that every generated dataset has been validated.
 
-## Development Notes
+## ⚠️ Current Limitations
 
-AI tools were used during development to help with coding suggestions, debugging and documentation.
+- Sample datasets contain synthetic records and do not represent real students.
+- Generated candidate assignments are not final approved schedules.
+- More automated tests and large-scale performance testing are required.
+- Authentication and role-based access control are not yet implemented.
+- Additional testing is needed before real-world institutional deployment.
 
-I reviewed and tested the implementation through application startup, database operations and Postman requests. The final code and its behaviour should be verified before deployment.
+## 🔮 Future Improvements
 
-This project is intended as a working demonstration of an examination scheduling system.
+Planned improvements include:
+
+- 🎨 Develop a complete administrative frontend.
+- 📊 Add scheduling reports and dashboards.
+- ⚡ Optimize scheduling performance for larger datasets.
+- 🧪 Expand automated tests for scheduling constraints.
+- 🔐 Implement authentication and role-based permissions.
+- 📄 Add downloadable examination schedules and reports.
+
+## 🤖 AI Assistance and Development Notes
+
+AI tools were used as development assistants for:
+
+- Understanding project requirements and planning modules.
+- Backend coding suggestions and implementation guidance.
+- Scheduling logic design and debugging.
+- PostgreSQL and Spring Boot configuration troubleshooting.
+- Sample data generation and documentation.
+
+AI-generated suggestions were reviewed and tested during development. The project includes an AI usage disclosure in:
+
+`prompts/AI_USAGE.md`
+
+The developer remains responsible for understanding, reviewing, testing, and explaining the final implementation.
+
+## 👨‍💻 Project Repository
+
+**GitHub:** https://github.com/Disney35/SmartExam
+
+---
+
+⭐ **SmartExam – Making Examination Scheduling Smarter, Simpler, and More Reliable.**
