@@ -1,0 +1,51 @@
+course_id,course_name,department,credits
+COURSE-000001,Course 001,Mechanical,2
+COURSE-000002,Course 002,Mechanical,5
+COURSE-000003,Course 003,Electronics,2
+COURSE-000004,Course 004,Information Technology,3
+COURSE-000005,Course 005,Electronics,3
+COURSE-000006,Course 006,Electronics,5
+COURSE-000007,Course 007,Civil,3
+COURSE-000008,Course 008,Civil,3
+COURSE-000009,Course 009,Mechanical,3
+COURSE-000010,Course 010,Electronics,4
+COURSE-000011,Course 011,Electronics,3
+COURSE-000012,Course 012,Computer Science,5
+COURSE-000013,Course 013,Mechanical,4
+COURSE-000014,Course 014,Electronics,4
+COURSE-000015,Course 015,Information Technology,4
+COURSE-000016,Course 016,Mechanical,2
+COURSE-000017,Course 017,Mechanical,5
+COURSE-000018,Course 018,Information Technology,3
+COURSE-000019,Course 019,Electronics,4
+COURSE-000020,Course 020,Civil,5
+COURSE-000021,Course 021,Mechanical,3
+COURSE-000022,Course 022,Mechanical,4
+COURSE-000023,Course 023,Computer Science,2
+COURSE-000024,Course 024,Information Technology,3
+COURSE-000025,Course 025,Mechanical,4
+COURSE-000026,Course 026,Mechanical,3
+COURSE-000027,Course 027,Electronics,5
+COURSE-000028,Course 028,Mechanical,4
+COURSE-000029,Course 029,Mechanical,5
+COURSE-000030,Course 030,Mechanical,5
+COURSE-000031,Course 031,Electronics,2
+COURSE-000032,Course 032,Mechanical,4
+COURSE-000033,Course 033,Information Technology,3
+COURSE-000034,Course 034,Mechanical,4
+COURSE-000035,Course 035,Computer Science,2
+COURSE-000036,Course 036,Electronics,4
+COURSE-000037,Course 037,Mechanical,4
+COURSE-000038,Course 038,Mechanical,3
+COURSE-000039,Course 039,Information Technology,3
+COURSE-000040,Course 040,Information Technology,5
+COURSE-000041,Course 041,Civil,4
+COURSE-000042,Course 042,Computer Science,3
+COURSE-000043,Course 043,Computer Science,3
+COURSE-000044,Course 044,Civil,3
+COURSE-000045,Course 045,Electronics,2
+COURSE-000046,Course 046,Computer Science,5
+COURSE-000047,Course 047,Computer Science,2
+COURSE-000048,Course 048,Information Technology,4
+COURSE-000049,Course 049,Computer Science,4
+COURSE-000050,Course 050,Mechanical,4

@@ -1,0 +1,39 @@
+{
+  "seed": 20261022,
+  "generated_at": "Deterministic dataset; timestamp intentionally omitted",
+  "record_counts": {
+    "students": 5000,
+    "courses": 50,
+    "enrollments": 15000,
+    "exams": 300,
+    "rooms": 100,
+    "invigilators": 200,
+    "exam_requirements": 300,
+    "room_equipment": 147,
+    "room_availability": 1000,
+    "invigilator_availability": 2000,
+    "accommodations": 100,
+    "schedule_assignments": 300
+  },
+  "ground_truth_cases": 5,
+  "validation_checks": {
+    "unique_student_ids": true,
+    "unique_course_ids": true,
+    "unique_exam_ids": true,
+    "unique_room_ids": true,
+    "unique_invigilator_ids": true,
+    "enrollment_student_foreign_keys": true,
+    "enrollment_course_foreign_keys": true,
+    "exam_course_foreign_keys": true,
+    "assignment_exam_foreign_keys": true,
+    "assignment_room_foreign_keys": true,
+    "assignment_invigilator_foreign_keys": true,
+    "room_equipment_foreign_keys": true,
+    "accommodation_student_foreign_keys": true,
+    "positive_room_capacity": true,
+    "positive_exam_duration": true,
+    "positive_equipment_quantity": true
+  },
+  "all_validation_checks_passed": true,
+  "note": "Candidate assignments are proposed data, not proof of a conflict-free accepted schedule."
+}

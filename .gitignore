@@ -1,0 +1,29 @@
+﻿# Environment variables and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+
+# Java / Maven build files
+backend/target/
+**/target/
+
+# Logs and diagnostic files
+*.log
+logs/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+venv/

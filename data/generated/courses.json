@@ -1,0 +1,302 @@
+[
+  {
+    "course_id": "COURSE-000001",
+    "course_name": "Course 001",
+    "department": "Mechanical",
+    "credits": 2
+  },
+  {
+    "course_id": "COURSE-000002",
+    "course_name": "Course 002",
+    "department": "Mechanical",
+    "credits": 5
+  },
+  {
+    "course_id": "COURSE-000003",
+    "course_name": "Course 003",
+    "department": "Electronics",
+    "credits": 2
+  },
+  {
+    "course_id": "COURSE-000004",
+    "course_name": "Course 004",
+    "department": "Information Technology",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000005",
+    "course_name": "Course 005",
+    "department": "Electronics",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000006",
+    "course_name": "Course 006",
+    "department": "Electronics",
+    "credits": 5
+  },
+  {
+    "course_id": "COURSE-000007",
+    "course_name": "Course 007",
+    "department": "Civil",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000008",
+    "course_name": "Course 008",
+    "department": "Civil",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000009",
+    "course_name": "Course 009",
+    "department": "Mechanical",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000010",
+    "course_name": "Course 010",
+    "department": "Electronics",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000011",
+    "course_name": "Course 011",
+    "department": "Electronics",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000012",
+    "course_name": "Course 012",
+    "department": "Computer Science",
+    "credits": 5
+  },
+  {
+    "course_id": "COURSE-000013",
+    "course_name": "Course 013",
+    "department": "Mechanical",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000014",
+    "course_name": "Course 014",
+    "department": "Electronics",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000015",
+    "course_name": "Course 015",
+    "department": "Information Technology",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000016",
+    "course_name": "Course 016",
+    "department": "Mechanical",
+    "credits": 2
+  },
+  {
+    "course_id": "COURSE-000017",
+    "course_name": "Course 017",
+    "department": "Mechanical",
+    "credits": 5
+  },
+  {
+    "course_id": "COURSE-000018",
+    "course_name": "Course 018",
+    "department": "Information Technology",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000019",
+    "course_name": "Course 019",
+    "department": "Electronics",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000020",
+    "course_name": "Course 020",
+    "department": "Civil",
+    "credits": 5
+  },
+  {
+    "course_id": "COURSE-000021",
+    "course_name": "Course 021",
+    "department": "Mechanical",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000022",
+    "course_name": "Course 022",
+    "department": "Mechanical",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000023",
+    "course_name": "Course 023",
+    "department": "Computer Science",
+    "credits": 2
+  },
+  {
+    "course_id": "COURSE-000024",
+    "course_name": "Course 024",
+    "department": "Information Technology",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000025",
+    "course_name": "Course 025",
+    "department": "Mechanical",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000026",
+    "course_name": "Course 026",
+    "department": "Mechanical",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000027",
+    "course_name": "Course 027",
+    "department": "Electronics",
+    "credits": 5
+  },
+  {
+    "course_id": "COURSE-000028",
+    "course_name": "Course 028",
+    "department": "Mechanical",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000029",
+    "course_name": "Course 029",
+    "department": "Mechanical",
+    "credits": 5
+  },
+  {
+    "course_id": "COURSE-000030",
+    "course_name": "Course 030",
+    "department": "Mechanical",
+    "credits": 5
+  },
+  {
+    "course_id": "COURSE-000031",
+    "course_name": "Course 031",
+    "department": "Electronics",
+    "credits": 2
+  },
+  {
+    "course_id": "COURSE-000032",
+    "course_name": "Course 032",
+    "department": "Mechanical",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000033",
+    "course_name": "Course 033",
+    "department": "Information Technology",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000034",
+    "course_name": "Course 034",
+    "department": "Mechanical",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000035",
+    "course_name": "Course 035",
+    "department": "Computer Science",
+    "credits": 2
+  },
+  {
+    "course_id": "COURSE-000036",
+    "course_name": "Course 036",
+    "department": "Electronics",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000037",
+    "course_name": "Course 037",
+    "department": "Mechanical",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000038",
+    "course_name": "Course 038",
+    "department": "Mechanical",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000039",
+    "course_name": "Course 039",
+    "department": "Information Technology",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000040",
+    "course_name": "Course 040",
+    "department": "Information Technology",
+    "credits": 5
+  },
+  {
+    "course_id": "COURSE-000041",
+    "course_name": "Course 041",
+    "department": "Civil",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000042",
+    "course_name": "Course 042",
+    "department": "Computer Science",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000043",
+    "course_name": "Course 043",
+    "department": "Computer Science",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000044",
+    "course_name": "Course 044",
+    "department": "Civil",
+    "credits": 3
+  },
+  {
+    "course_id": "COURSE-000045",
+    "course_name": "Course 045",
+    "department": "Electronics",
+    "credits": 2
+  },
+  {
+    "course_id": "COURSE-000046",
+    "course_name": "Course 046",
+    "department": "Computer Science",
+    "credits": 5
+  },
+  {
+    "course_id": "COURSE-000047",
+    "course_name": "Course 047",
+    "department": "Computer Science",
+    "credits": 2
+  },
+  {
+    "course_id": "COURSE-000048",
+    "course_name": "Course 048",
+    "department": "Information Technology",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000049",
+    "course_name": "Course 049",
+    "department": "Computer Science",
+    "credits": 4
+  },
+  {
+    "course_id": "COURSE-000050",
+    "course_name": "Course 050",
+    "department": "Mechanical",
+    "credits": 4
+  }
+]

@@ -1,0 +1,3002 @@
+[
+  {
+    "assignment_id": "ASN-000001",
+    "exam_id": "EXAM-2026-000001",
+    "room_id": "ROOM-000001",
+    "invigilator_id": "INV-000001",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000002",
+    "exam_id": "EXAM-2026-000002",
+    "room_id": "ROOM-000002",
+    "invigilator_id": "INV-000002",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000003",
+    "exam_id": "EXAM-2026-000003",
+    "room_id": "ROOM-000003",
+    "invigilator_id": "INV-000003",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000004",
+    "exam_id": "EXAM-2026-000004",
+    "room_id": "ROOM-000004",
+    "invigilator_id": "INV-000004",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000005",
+    "exam_id": "EXAM-2026-000005",
+    "room_id": "ROOM-000005",
+    "invigilator_id": "INV-000005",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000006",
+    "exam_id": "EXAM-2026-000006",
+    "room_id": "ROOM-000006",
+    "invigilator_id": "INV-000006",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000007",
+    "exam_id": "EXAM-2026-000007",
+    "room_id": "ROOM-000007",
+    "invigilator_id": "INV-000007",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000008",
+    "exam_id": "EXAM-2026-000008",
+    "room_id": "ROOM-000008",
+    "invigilator_id": "INV-000008",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000009",
+    "exam_id": "EXAM-2026-000009",
+    "room_id": "ROOM-000009",
+    "invigilator_id": "INV-000009",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000010",
+    "exam_id": "EXAM-2026-000010",
+    "room_id": "ROOM-000010",
+    "invigilator_id": "INV-000010",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000011",
+    "exam_id": "EXAM-2026-000011",
+    "room_id": "ROOM-000011",
+    "invigilator_id": "INV-000011",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000012",
+    "exam_id": "EXAM-2026-000012",
+    "room_id": "ROOM-000012",
+    "invigilator_id": "INV-000012",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000013",
+    "exam_id": "EXAM-2026-000013",
+    "room_id": "ROOM-000013",
+    "invigilator_id": "INV-000013",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000014",
+    "exam_id": "EXAM-2026-000014",
+    "room_id": "ROOM-000014",
+    "invigilator_id": "INV-000014",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000015",
+    "exam_id": "EXAM-2026-000015",
+    "room_id": "ROOM-000015",
+    "invigilator_id": "INV-000015",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000016",
+    "exam_id": "EXAM-2026-000016",
+    "room_id": "ROOM-000016",
+    "invigilator_id": "INV-000016",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000017",
+    "exam_id": "EXAM-2026-000017",
+    "room_id": "ROOM-000017",
+    "invigilator_id": "INV-000017",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000018",
+    "exam_id": "EXAM-2026-000018",
+    "room_id": "ROOM-000018",
+    "invigilator_id": "INV-000018",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000019",
+    "exam_id": "EXAM-2026-000019",
+    "room_id": "ROOM-000019",
+    "invigilator_id": "INV-000019",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000020",
+    "exam_id": "EXAM-2026-000020",
+    "room_id": "ROOM-000020",
+    "invigilator_id": "INV-000020",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000021",
+    "exam_id": "EXAM-2026-000021",
+    "room_id": "ROOM-000021",
+    "invigilator_id": "INV-000021",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000022",
+    "exam_id": "EXAM-2026-000022",
+    "room_id": "ROOM-000022",
+    "invigilator_id": "INV-000022",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000023",
+    "exam_id": "EXAM-2026-000023",
+    "room_id": "ROOM-000023",
+    "invigilator_id": "INV-000023",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000024",
+    "exam_id": "EXAM-2026-000024",
+    "room_id": "ROOM-000024",
+    "invigilator_id": "INV-000024",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000025",
+    "exam_id": "EXAM-2026-000025",
+    "room_id": "ROOM-000025",
+    "invigilator_id": "INV-000025",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000026",
+    "exam_id": "EXAM-2026-000026",
+    "room_id": "ROOM-000026",
+    "invigilator_id": "INV-000026",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000027",
+    "exam_id": "EXAM-2026-000027",
+    "room_id": "ROOM-000027",
+    "invigilator_id": "INV-000027",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000028",
+    "exam_id": "EXAM-2026-000028",
+    "room_id": "ROOM-000028",
+    "invigilator_id": "INV-000028",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000029",
+    "exam_id": "EXAM-2026-000029",
+    "room_id": "ROOM-000029",
+    "invigilator_id": "INV-000029",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000030",
+    "exam_id": "EXAM-2026-000030",
+    "room_id": "ROOM-000030",
+    "invigilator_id": "INV-000030",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000031",
+    "exam_id": "EXAM-2026-000031",
+    "room_id": "ROOM-000031",
+    "invigilator_id": "INV-000031",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000032",
+    "exam_id": "EXAM-2026-000032",
+    "room_id": "ROOM-000032",
+    "invigilator_id": "INV-000032",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000033",
+    "exam_id": "EXAM-2026-000033",
+    "room_id": "ROOM-000033",
+    "invigilator_id": "INV-000033",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000034",
+    "exam_id": "EXAM-2026-000034",
+    "room_id": "ROOM-000034",
+    "invigilator_id": "INV-000034",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000035",
+    "exam_id": "EXAM-2026-000035",
+    "room_id": "ROOM-000035",
+    "invigilator_id": "INV-000035",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000036",
+    "exam_id": "EXAM-2026-000036",
+    "room_id": "ROOM-000036",
+    "invigilator_id": "INV-000036",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000037",
+    "exam_id": "EXAM-2026-000037",
+    "room_id": "ROOM-000037",
+    "invigilator_id": "INV-000037",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000038",
+    "exam_id": "EXAM-2026-000038",
+    "room_id": "ROOM-000038",
+    "invigilator_id": "INV-000038",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000039",
+    "exam_id": "EXAM-2026-000039",
+    "room_id": "ROOM-000039",
+    "invigilator_id": "INV-000039",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000040",
+    "exam_id": "EXAM-2026-000040",
+    "room_id": "ROOM-000040",
+    "invigilator_id": "INV-000040",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000041",
+    "exam_id": "EXAM-2026-000041",
+    "room_id": "ROOM-000041",
+    "invigilator_id": "INV-000041",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000042",
+    "exam_id": "EXAM-2026-000042",
+    "room_id": "ROOM-000042",
+    "invigilator_id": "INV-000042",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000043",
+    "exam_id": "EXAM-2026-000043",
+    "room_id": "ROOM-000043",
+    "invigilator_id": "INV-000043",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000044",
+    "exam_id": "EXAM-2026-000044",
+    "room_id": "ROOM-000044",
+    "invigilator_id": "INV-000044",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000045",
+    "exam_id": "EXAM-2026-000045",
+    "room_id": "ROOM-000045",
+    "invigilator_id": "INV-000045",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000046",
+    "exam_id": "EXAM-2026-000046",
+    "room_id": "ROOM-000046",
+    "invigilator_id": "INV-000046",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000047",
+    "exam_id": "EXAM-2026-000047",
+    "room_id": "ROOM-000047",
+    "invigilator_id": "INV-000047",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000048",
+    "exam_id": "EXAM-2026-000048",
+    "room_id": "ROOM-000048",
+    "invigilator_id": "INV-000048",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000049",
+    "exam_id": "EXAM-2026-000049",
+    "room_id": "ROOM-000049",
+    "invigilator_id": "INV-000049",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000050",
+    "exam_id": "EXAM-2026-000050",
+    "room_id": "ROOM-000050",
+    "invigilator_id": "INV-000050",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000051",
+    "exam_id": "EXAM-2026-000051",
+    "room_id": "ROOM-000051",
+    "invigilator_id": "INV-000051",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000052",
+    "exam_id": "EXAM-2026-000052",
+    "room_id": "ROOM-000052",
+    "invigilator_id": "INV-000052",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000053",
+    "exam_id": "EXAM-2026-000053",
+    "room_id": "ROOM-000053",
+    "invigilator_id": "INV-000053",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000054",
+    "exam_id": "EXAM-2026-000054",
+    "room_id": "ROOM-000054",
+    "invigilator_id": "INV-000054",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000055",
+    "exam_id": "EXAM-2026-000055",
+    "room_id": "ROOM-000055",
+    "invigilator_id": "INV-000055",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000056",
+    "exam_id": "EXAM-2026-000056",
+    "room_id": "ROOM-000056",
+    "invigilator_id": "INV-000056",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000057",
+    "exam_id": "EXAM-2026-000057",
+    "room_id": "ROOM-000057",
+    "invigilator_id": "INV-000057",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000058",
+    "exam_id": "EXAM-2026-000058",
+    "room_id": "ROOM-000058",
+    "invigilator_id": "INV-000058",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000059",
+    "exam_id": "EXAM-2026-000059",
+    "room_id": "ROOM-000059",
+    "invigilator_id": "INV-000059",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000060",
+    "exam_id": "EXAM-2026-000060",
+    "room_id": "ROOM-000060",
+    "invigilator_id": "INV-000060",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000061",
+    "exam_id": "EXAM-2026-000061",
+    "room_id": "ROOM-000061",
+    "invigilator_id": "INV-000061",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000062",
+    "exam_id": "EXAM-2026-000062",
+    "room_id": "ROOM-000062",
+    "invigilator_id": "INV-000062",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000063",
+    "exam_id": "EXAM-2026-000063",
+    "room_id": "ROOM-000063",
+    "invigilator_id": "INV-000063",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000064",
+    "exam_id": "EXAM-2026-000064",
+    "room_id": "ROOM-000064",
+    "invigilator_id": "INV-000064",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000065",
+    "exam_id": "EXAM-2026-000065",
+    "room_id": "ROOM-000065",
+    "invigilator_id": "INV-000065",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000066",
+    "exam_id": "EXAM-2026-000066",
+    "room_id": "ROOM-000066",
+    "invigilator_id": "INV-000066",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000067",
+    "exam_id": "EXAM-2026-000067",
+    "room_id": "ROOM-000067",
+    "invigilator_id": "INV-000067",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000068",
+    "exam_id": "EXAM-2026-000068",
+    "room_id": "ROOM-000068",
+    "invigilator_id": "INV-000068",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000069",
+    "exam_id": "EXAM-2026-000069",
+    "room_id": "ROOM-000069",
+    "invigilator_id": "INV-000069",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000070",
+    "exam_id": "EXAM-2026-000070",
+    "room_id": "ROOM-000070",
+    "invigilator_id": "INV-000070",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000071",
+    "exam_id": "EXAM-2026-000071",
+    "room_id": "ROOM-000071",
+    "invigilator_id": "INV-000071",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000072",
+    "exam_id": "EXAM-2026-000072",
+    "room_id": "ROOM-000072",
+    "invigilator_id": "INV-000072",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000073",
+    "exam_id": "EXAM-2026-000073",
+    "room_id": "ROOM-000073",
+    "invigilator_id": "INV-000073",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000074",
+    "exam_id": "EXAM-2026-000074",
+    "room_id": "ROOM-000074",
+    "invigilator_id": "INV-000074",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000075",
+    "exam_id": "EXAM-2026-000075",
+    "room_id": "ROOM-000075",
+    "invigilator_id": "INV-000075",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000076",
+    "exam_id": "EXAM-2026-000076",
+    "room_id": "ROOM-000076",
+    "invigilator_id": "INV-000076",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000077",
+    "exam_id": "EXAM-2026-000077",
+    "room_id": "ROOM-000077",
+    "invigilator_id": "INV-000077",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000078",
+    "exam_id": "EXAM-2026-000078",
+    "room_id": "ROOM-000078",
+    "invigilator_id": "INV-000078",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000079",
+    "exam_id": "EXAM-2026-000079",
+    "room_id": "ROOM-000079",
+    "invigilator_id": "INV-000079",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000080",
+    "exam_id": "EXAM-2026-000080",
+    "room_id": "ROOM-000080",
+    "invigilator_id": "INV-000080",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000081",
+    "exam_id": "EXAM-2026-000081",
+    "room_id": "ROOM-000081",
+    "invigilator_id": "INV-000081",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000082",
+    "exam_id": "EXAM-2026-000082",
+    "room_id": "ROOM-000082",
+    "invigilator_id": "INV-000082",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000083",
+    "exam_id": "EXAM-2026-000083",
+    "room_id": "ROOM-000083",
+    "invigilator_id": "INV-000083",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000084",
+    "exam_id": "EXAM-2026-000084",
+    "room_id": "ROOM-000084",
+    "invigilator_id": "INV-000084",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000085",
+    "exam_id": "EXAM-2026-000085",
+    "room_id": "ROOM-000085",
+    "invigilator_id": "INV-000085",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000086",
+    "exam_id": "EXAM-2026-000086",
+    "room_id": "ROOM-000086",
+    "invigilator_id": "INV-000086",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000087",
+    "exam_id": "EXAM-2026-000087",
+    "room_id": "ROOM-000087",
+    "invigilator_id": "INV-000087",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000088",
+    "exam_id": "EXAM-2026-000088",
+    "room_id": "ROOM-000088",
+    "invigilator_id": "INV-000088",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000089",
+    "exam_id": "EXAM-2026-000089",
+    "room_id": "ROOM-000089",
+    "invigilator_id": "INV-000089",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000090",
+    "exam_id": "EXAM-2026-000090",
+    "room_id": "ROOM-000090",
+    "invigilator_id": "INV-000090",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000091",
+    "exam_id": "EXAM-2026-000091",
+    "room_id": "ROOM-000091",
+    "invigilator_id": "INV-000091",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000092",
+    "exam_id": "EXAM-2026-000092",
+    "room_id": "ROOM-000092",
+    "invigilator_id": "INV-000092",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000093",
+    "exam_id": "EXAM-2026-000093",
+    "room_id": "ROOM-000093",
+    "invigilator_id": "INV-000093",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000094",
+    "exam_id": "EXAM-2026-000094",
+    "room_id": "ROOM-000094",
+    "invigilator_id": "INV-000094",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000095",
+    "exam_id": "EXAM-2026-000095",
+    "room_id": "ROOM-000095",
+    "invigilator_id": "INV-000095",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000096",
+    "exam_id": "EXAM-2026-000096",
+    "room_id": "ROOM-000096",
+    "invigilator_id": "INV-000096",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000097",
+    "exam_id": "EXAM-2026-000097",
+    "room_id": "ROOM-000097",
+    "invigilator_id": "INV-000097",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000098",
+    "exam_id": "EXAM-2026-000098",
+    "room_id": "ROOM-000098",
+    "invigilator_id": "INV-000098",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000099",
+    "exam_id": "EXAM-2026-000099",
+    "room_id": "ROOM-000099",
+    "invigilator_id": "INV-000099",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000100",
+    "exam_id": "EXAM-2026-000100",
+    "room_id": "ROOM-000100",
+    "invigilator_id": "INV-000100",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000101",
+    "exam_id": "EXAM-2026-000101",
+    "room_id": "ROOM-000001",
+    "invigilator_id": "INV-000101",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000102",
+    "exam_id": "EXAM-2026-000102",
+    "room_id": "ROOM-000002",
+    "invigilator_id": "INV-000102",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000103",
+    "exam_id": "EXAM-2026-000103",
+    "room_id": "ROOM-000003",
+    "invigilator_id": "INV-000103",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000104",
+    "exam_id": "EXAM-2026-000104",
+    "room_id": "ROOM-000004",
+    "invigilator_id": "INV-000104",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000105",
+    "exam_id": "EXAM-2026-000105",
+    "room_id": "ROOM-000005",
+    "invigilator_id": "INV-000105",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000106",
+    "exam_id": "EXAM-2026-000106",
+    "room_id": "ROOM-000006",
+    "invigilator_id": "INV-000106",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000107",
+    "exam_id": "EXAM-2026-000107",
+    "room_id": "ROOM-000007",
+    "invigilator_id": "INV-000107",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000108",
+    "exam_id": "EXAM-2026-000108",
+    "room_id": "ROOM-000008",
+    "invigilator_id": "INV-000108",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000109",
+    "exam_id": "EXAM-2026-000109",
+    "room_id": "ROOM-000009",
+    "invigilator_id": "INV-000109",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000110",
+    "exam_id": "EXAM-2026-000110",
+    "room_id": "ROOM-000010",
+    "invigilator_id": "INV-000110",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000111",
+    "exam_id": "EXAM-2026-000111",
+    "room_id": "ROOM-000011",
+    "invigilator_id": "INV-000111",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000112",
+    "exam_id": "EXAM-2026-000112",
+    "room_id": "ROOM-000012",
+    "invigilator_id": "INV-000112",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000113",
+    "exam_id": "EXAM-2026-000113",
+    "room_id": "ROOM-000013",
+    "invigilator_id": "INV-000113",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000114",
+    "exam_id": "EXAM-2026-000114",
+    "room_id": "ROOM-000014",
+    "invigilator_id": "INV-000114",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000115",
+    "exam_id": "EXAM-2026-000115",
+    "room_id": "ROOM-000015",
+    "invigilator_id": "INV-000115",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000116",
+    "exam_id": "EXAM-2026-000116",
+    "room_id": "ROOM-000016",
+    "invigilator_id": "INV-000116",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000117",
+    "exam_id": "EXAM-2026-000117",
+    "room_id": "ROOM-000017",
+    "invigilator_id": "INV-000117",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000118",
+    "exam_id": "EXAM-2026-000118",
+    "room_id": "ROOM-000018",
+    "invigilator_id": "INV-000118",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000119",
+    "exam_id": "EXAM-2026-000119",
+    "room_id": "ROOM-000019",
+    "invigilator_id": "INV-000119",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000120",
+    "exam_id": "EXAM-2026-000120",
+    "room_id": "ROOM-000020",
+    "invigilator_id": "INV-000120",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000121",
+    "exam_id": "EXAM-2026-000121",
+    "room_id": "ROOM-000021",
+    "invigilator_id": "INV-000121",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000122",
+    "exam_id": "EXAM-2026-000122",
+    "room_id": "ROOM-000022",
+    "invigilator_id": "INV-000122",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000123",
+    "exam_id": "EXAM-2026-000123",
+    "room_id": "ROOM-000023",
+    "invigilator_id": "INV-000123",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000124",
+    "exam_id": "EXAM-2026-000124",
+    "room_id": "ROOM-000024",
+    "invigilator_id": "INV-000124",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000125",
+    "exam_id": "EXAM-2026-000125",
+    "room_id": "ROOM-000025",
+    "invigilator_id": "INV-000125",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000126",
+    "exam_id": "EXAM-2026-000126",
+    "room_id": "ROOM-000026",
+    "invigilator_id": "INV-000126",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000127",
+    "exam_id": "EXAM-2026-000127",
+    "room_id": "ROOM-000027",
+    "invigilator_id": "INV-000127",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000128",
+    "exam_id": "EXAM-2026-000128",
+    "room_id": "ROOM-000028",
+    "invigilator_id": "INV-000128",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000129",
+    "exam_id": "EXAM-2026-000129",
+    "room_id": "ROOM-000029",
+    "invigilator_id": "INV-000129",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000130",
+    "exam_id": "EXAM-2026-000130",
+    "room_id": "ROOM-000030",
+    "invigilator_id": "INV-000130",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000131",
+    "exam_id": "EXAM-2026-000131",
+    "room_id": "ROOM-000031",
+    "invigilator_id": "INV-000131",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000132",
+    "exam_id": "EXAM-2026-000132",
+    "room_id": "ROOM-000032",
+    "invigilator_id": "INV-000132",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000133",
+    "exam_id": "EXAM-2026-000133",
+    "room_id": "ROOM-000033",
+    "invigilator_id": "INV-000133",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000134",
+    "exam_id": "EXAM-2026-000134",
+    "room_id": "ROOM-000034",
+    "invigilator_id": "INV-000134",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000135",
+    "exam_id": "EXAM-2026-000135",
+    "room_id": "ROOM-000035",
+    "invigilator_id": "INV-000135",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000136",
+    "exam_id": "EXAM-2026-000136",
+    "room_id": "ROOM-000036",
+    "invigilator_id": "INV-000136",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000137",
+    "exam_id": "EXAM-2026-000137",
+    "room_id": "ROOM-000037",
+    "invigilator_id": "INV-000137",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000138",
+    "exam_id": "EXAM-2026-000138",
+    "room_id": "ROOM-000038",
+    "invigilator_id": "INV-000138",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000139",
+    "exam_id": "EXAM-2026-000139",
+    "room_id": "ROOM-000039",
+    "invigilator_id": "INV-000139",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000140",
+    "exam_id": "EXAM-2026-000140",
+    "room_id": "ROOM-000040",
+    "invigilator_id": "INV-000140",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000141",
+    "exam_id": "EXAM-2026-000141",
+    "room_id": "ROOM-000041",
+    "invigilator_id": "INV-000141",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000142",
+    "exam_id": "EXAM-2026-000142",
+    "room_id": "ROOM-000042",
+    "invigilator_id": "INV-000142",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000143",
+    "exam_id": "EXAM-2026-000143",
+    "room_id": "ROOM-000043",
+    "invigilator_id": "INV-000143",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000144",
+    "exam_id": "EXAM-2026-000144",
+    "room_id": "ROOM-000044",
+    "invigilator_id": "INV-000144",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000145",
+    "exam_id": "EXAM-2026-000145",
+    "room_id": "ROOM-000045",
+    "invigilator_id": "INV-000145",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000146",
+    "exam_id": "EXAM-2026-000146",
+    "room_id": "ROOM-000046",
+    "invigilator_id": "INV-000146",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000147",
+    "exam_id": "EXAM-2026-000147",
+    "room_id": "ROOM-000047",
+    "invigilator_id": "INV-000147",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000148",
+    "exam_id": "EXAM-2026-000148",
+    "room_id": "ROOM-000048",
+    "invigilator_id": "INV-000148",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000149",
+    "exam_id": "EXAM-2026-000149",
+    "room_id": "ROOM-000049",
+    "invigilator_id": "INV-000149",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000150",
+    "exam_id": "EXAM-2026-000150",
+    "room_id": "ROOM-000050",
+    "invigilator_id": "INV-000150",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000151",
+    "exam_id": "EXAM-2026-000151",
+    "room_id": "ROOM-000051",
+    "invigilator_id": "INV-000151",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000152",
+    "exam_id": "EXAM-2026-000152",
+    "room_id": "ROOM-000052",
+    "invigilator_id": "INV-000152",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000153",
+    "exam_id": "EXAM-2026-000153",
+    "room_id": "ROOM-000053",
+    "invigilator_id": "INV-000153",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000154",
+    "exam_id": "EXAM-2026-000154",
+    "room_id": "ROOM-000054",
+    "invigilator_id": "INV-000154",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000155",
+    "exam_id": "EXAM-2026-000155",
+    "room_id": "ROOM-000055",
+    "invigilator_id": "INV-000155",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000156",
+    "exam_id": "EXAM-2026-000156",
+    "room_id": "ROOM-000056",
+    "invigilator_id": "INV-000156",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000157",
+    "exam_id": "EXAM-2026-000157",
+    "room_id": "ROOM-000057",
+    "invigilator_id": "INV-000157",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000158",
+    "exam_id": "EXAM-2026-000158",
+    "room_id": "ROOM-000058",
+    "invigilator_id": "INV-000158",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000159",
+    "exam_id": "EXAM-2026-000159",
+    "room_id": "ROOM-000059",
+    "invigilator_id": "INV-000159",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000160",
+    "exam_id": "EXAM-2026-000160",
+    "room_id": "ROOM-000060",
+    "invigilator_id": "INV-000160",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000161",
+    "exam_id": "EXAM-2026-000161",
+    "room_id": "ROOM-000061",
+    "invigilator_id": "INV-000161",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000162",
+    "exam_id": "EXAM-2026-000162",
+    "room_id": "ROOM-000062",
+    "invigilator_id": "INV-000162",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000163",
+    "exam_id": "EXAM-2026-000163",
+    "room_id": "ROOM-000063",
+    "invigilator_id": "INV-000163",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000164",
+    "exam_id": "EXAM-2026-000164",
+    "room_id": "ROOM-000064",
+    "invigilator_id": "INV-000164",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000165",
+    "exam_id": "EXAM-2026-000165",
+    "room_id": "ROOM-000065",
+    "invigilator_id": "INV-000165",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000166",
+    "exam_id": "EXAM-2026-000166",
+    "room_id": "ROOM-000066",
+    "invigilator_id": "INV-000166",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000167",
+    "exam_id": "EXAM-2026-000167",
+    "room_id": "ROOM-000067",
+    "invigilator_id": "INV-000167",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000168",
+    "exam_id": "EXAM-2026-000168",
+    "room_id": "ROOM-000068",
+    "invigilator_id": "INV-000168",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000169",
+    "exam_id": "EXAM-2026-000169",
+    "room_id": "ROOM-000069",
+    "invigilator_id": "INV-000169",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000170",
+    "exam_id": "EXAM-2026-000170",
+    "room_id": "ROOM-000070",
+    "invigilator_id": "INV-000170",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000171",
+    "exam_id": "EXAM-2026-000171",
+    "room_id": "ROOM-000071",
+    "invigilator_id": "INV-000171",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000172",
+    "exam_id": "EXAM-2026-000172",
+    "room_id": "ROOM-000072",
+    "invigilator_id": "INV-000172",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000173",
+    "exam_id": "EXAM-2026-000173",
+    "room_id": "ROOM-000073",
+    "invigilator_id": "INV-000173",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000174",
+    "exam_id": "EXAM-2026-000174",
+    "room_id": "ROOM-000074",
+    "invigilator_id": "INV-000174",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000175",
+    "exam_id": "EXAM-2026-000175",
+    "room_id": "ROOM-000075",
+    "invigilator_id": "INV-000175",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000176",
+    "exam_id": "EXAM-2026-000176",
+    "room_id": "ROOM-000076",
+    "invigilator_id": "INV-000176",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000177",
+    "exam_id": "EXAM-2026-000177",
+    "room_id": "ROOM-000077",
+    "invigilator_id": "INV-000177",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000178",
+    "exam_id": "EXAM-2026-000178",
+    "room_id": "ROOM-000078",
+    "invigilator_id": "INV-000178",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000179",
+    "exam_id": "EXAM-2026-000179",
+    "room_id": "ROOM-000079",
+    "invigilator_id": "INV-000179",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000180",
+    "exam_id": "EXAM-2026-000180",
+    "room_id": "ROOM-000080",
+    "invigilator_id": "INV-000180",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000181",
+    "exam_id": "EXAM-2026-000181",
+    "room_id": "ROOM-000081",
+    "invigilator_id": "INV-000181",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000182",
+    "exam_id": "EXAM-2026-000182",
+    "room_id": "ROOM-000082",
+    "invigilator_id": "INV-000182",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000183",
+    "exam_id": "EXAM-2026-000183",
+    "room_id": "ROOM-000083",
+    "invigilator_id": "INV-000183",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000184",
+    "exam_id": "EXAM-2026-000184",
+    "room_id": "ROOM-000084",
+    "invigilator_id": "INV-000184",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000185",
+    "exam_id": "EXAM-2026-000185",
+    "room_id": "ROOM-000085",
+    "invigilator_id": "INV-000185",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000186",
+    "exam_id": "EXAM-2026-000186",
+    "room_id": "ROOM-000086",
+    "invigilator_id": "INV-000186",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000187",
+    "exam_id": "EXAM-2026-000187",
+    "room_id": "ROOM-000087",
+    "invigilator_id": "INV-000187",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000188",
+    "exam_id": "EXAM-2026-000188",
+    "room_id": "ROOM-000088",
+    "invigilator_id": "INV-000188",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000189",
+    "exam_id": "EXAM-2026-000189",
+    "room_id": "ROOM-000089",
+    "invigilator_id": "INV-000189",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000190",
+    "exam_id": "EXAM-2026-000190",
+    "room_id": "ROOM-000090",
+    "invigilator_id": "INV-000190",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000191",
+    "exam_id": "EXAM-2026-000191",
+    "room_id": "ROOM-000091",
+    "invigilator_id": "INV-000191",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000192",
+    "exam_id": "EXAM-2026-000192",
+    "room_id": "ROOM-000092",
+    "invigilator_id": "INV-000192",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000193",
+    "exam_id": "EXAM-2026-000193",
+    "room_id": "ROOM-000093",
+    "invigilator_id": "INV-000193",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000194",
+    "exam_id": "EXAM-2026-000194",
+    "room_id": "ROOM-000094",
+    "invigilator_id": "INV-000194",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000195",
+    "exam_id": "EXAM-2026-000195",
+    "room_id": "ROOM-000095",
+    "invigilator_id": "INV-000195",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000196",
+    "exam_id": "EXAM-2026-000196",
+    "room_id": "ROOM-000096",
+    "invigilator_id": "INV-000196",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000197",
+    "exam_id": "EXAM-2026-000197",
+    "room_id": "ROOM-000097",
+    "invigilator_id": "INV-000197",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000198",
+    "exam_id": "EXAM-2026-000198",
+    "room_id": "ROOM-000098",
+    "invigilator_id": "INV-000198",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000199",
+    "exam_id": "EXAM-2026-000199",
+    "room_id": "ROOM-000099",
+    "invigilator_id": "INV-000199",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000200",
+    "exam_id": "EXAM-2026-000200",
+    "room_id": "ROOM-000100",
+    "invigilator_id": "INV-000200",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000201",
+    "exam_id": "EXAM-2026-000201",
+    "room_id": "ROOM-000001",
+    "invigilator_id": "INV-000001",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000202",
+    "exam_id": "EXAM-2026-000202",
+    "room_id": "ROOM-000002",
+    "invigilator_id": "INV-000002",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000203",
+    "exam_id": "EXAM-2026-000203",
+    "room_id": "ROOM-000003",
+    "invigilator_id": "INV-000003",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000204",
+    "exam_id": "EXAM-2026-000204",
+    "room_id": "ROOM-000004",
+    "invigilator_id": "INV-000004",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000205",
+    "exam_id": "EXAM-2026-000205",
+    "room_id": "ROOM-000005",
+    "invigilator_id": "INV-000005",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000206",
+    "exam_id": "EXAM-2026-000206",
+    "room_id": "ROOM-000006",
+    "invigilator_id": "INV-000006",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000207",
+    "exam_id": "EXAM-2026-000207",
+    "room_id": "ROOM-000007",
+    "invigilator_id": "INV-000007",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000208",
+    "exam_id": "EXAM-2026-000208",
+    "room_id": "ROOM-000008",
+    "invigilator_id": "INV-000008",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000209",
+    "exam_id": "EXAM-2026-000209",
+    "room_id": "ROOM-000009",
+    "invigilator_id": "INV-000009",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000210",
+    "exam_id": "EXAM-2026-000210",
+    "room_id": "ROOM-000010",
+    "invigilator_id": "INV-000010",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000211",
+    "exam_id": "EXAM-2026-000211",
+    "room_id": "ROOM-000011",
+    "invigilator_id": "INV-000011",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000212",
+    "exam_id": "EXAM-2026-000212",
+    "room_id": "ROOM-000012",
+    "invigilator_id": "INV-000012",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000213",
+    "exam_id": "EXAM-2026-000213",
+    "room_id": "ROOM-000013",
+    "invigilator_id": "INV-000013",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000214",
+    "exam_id": "EXAM-2026-000214",
+    "room_id": "ROOM-000014",
+    "invigilator_id": "INV-000014",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000215",
+    "exam_id": "EXAM-2026-000215",
+    "room_id": "ROOM-000015",
+    "invigilator_id": "INV-000015",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000216",
+    "exam_id": "EXAM-2026-000216",
+    "room_id": "ROOM-000016",
+    "invigilator_id": "INV-000016",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000217",
+    "exam_id": "EXAM-2026-000217",
+    "room_id": "ROOM-000017",
+    "invigilator_id": "INV-000017",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000218",
+    "exam_id": "EXAM-2026-000218",
+    "room_id": "ROOM-000018",
+    "invigilator_id": "INV-000018",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000219",
+    "exam_id": "EXAM-2026-000219",
+    "room_id": "ROOM-000019",
+    "invigilator_id": "INV-000019",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000220",
+    "exam_id": "EXAM-2026-000220",
+    "room_id": "ROOM-000020",
+    "invigilator_id": "INV-000020",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000221",
+    "exam_id": "EXAM-2026-000221",
+    "room_id": "ROOM-000021",
+    "invigilator_id": "INV-000021",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000222",
+    "exam_id": "EXAM-2026-000222",
+    "room_id": "ROOM-000022",
+    "invigilator_id": "INV-000022",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000223",
+    "exam_id": "EXAM-2026-000223",
+    "room_id": "ROOM-000023",
+    "invigilator_id": "INV-000023",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000224",
+    "exam_id": "EXAM-2026-000224",
+    "room_id": "ROOM-000024",
+    "invigilator_id": "INV-000024",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000225",
+    "exam_id": "EXAM-2026-000225",
+    "room_id": "ROOM-000025",
+    "invigilator_id": "INV-000025",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000226",
+    "exam_id": "EXAM-2026-000226",
+    "room_id": "ROOM-000026",
+    "invigilator_id": "INV-000026",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000227",
+    "exam_id": "EXAM-2026-000227",
+    "room_id": "ROOM-000027",
+    "invigilator_id": "INV-000027",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000228",
+    "exam_id": "EXAM-2026-000228",
+    "room_id": "ROOM-000028",
+    "invigilator_id": "INV-000028",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000229",
+    "exam_id": "EXAM-2026-000229",
+    "room_id": "ROOM-000029",
+    "invigilator_id": "INV-000029",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000230",
+    "exam_id": "EXAM-2026-000230",
+    "room_id": "ROOM-000030",
+    "invigilator_id": "INV-000030",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000231",
+    "exam_id": "EXAM-2026-000231",
+    "room_id": "ROOM-000031",
+    "invigilator_id": "INV-000031",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000232",
+    "exam_id": "EXAM-2026-000232",
+    "room_id": "ROOM-000032",
+    "invigilator_id": "INV-000032",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000233",
+    "exam_id": "EXAM-2026-000233",
+    "room_id": "ROOM-000033",
+    "invigilator_id": "INV-000033",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000234",
+    "exam_id": "EXAM-2026-000234",
+    "room_id": "ROOM-000034",
+    "invigilator_id": "INV-000034",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000235",
+    "exam_id": "EXAM-2026-000235",
+    "room_id": "ROOM-000035",
+    "invigilator_id": "INV-000035",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000236",
+    "exam_id": "EXAM-2026-000236",
+    "room_id": "ROOM-000036",
+    "invigilator_id": "INV-000036",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000237",
+    "exam_id": "EXAM-2026-000237",
+    "room_id": "ROOM-000037",
+    "invigilator_id": "INV-000037",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000238",
+    "exam_id": "EXAM-2026-000238",
+    "room_id": "ROOM-000038",
+    "invigilator_id": "INV-000038",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000239",
+    "exam_id": "EXAM-2026-000239",
+    "room_id": "ROOM-000039",
+    "invigilator_id": "INV-000039",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000240",
+    "exam_id": "EXAM-2026-000240",
+    "room_id": "ROOM-000040",
+    "invigilator_id": "INV-000040",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000241",
+    "exam_id": "EXAM-2026-000241",
+    "room_id": "ROOM-000041",
+    "invigilator_id": "INV-000041",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000242",
+    "exam_id": "EXAM-2026-000242",
+    "room_id": "ROOM-000042",
+    "invigilator_id": "INV-000042",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000243",
+    "exam_id": "EXAM-2026-000243",
+    "room_id": "ROOM-000043",
+    "invigilator_id": "INV-000043",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000244",
+    "exam_id": "EXAM-2026-000244",
+    "room_id": "ROOM-000044",
+    "invigilator_id": "INV-000044",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000245",
+    "exam_id": "EXAM-2026-000245",
+    "room_id": "ROOM-000045",
+    "invigilator_id": "INV-000045",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000246",
+    "exam_id": "EXAM-2026-000246",
+    "room_id": "ROOM-000046",
+    "invigilator_id": "INV-000046",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000247",
+    "exam_id": "EXAM-2026-000247",
+    "room_id": "ROOM-000047",
+    "invigilator_id": "INV-000047",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000248",
+    "exam_id": "EXAM-2026-000248",
+    "room_id": "ROOM-000048",
+    "invigilator_id": "INV-000048",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000249",
+    "exam_id": "EXAM-2026-000249",
+    "room_id": "ROOM-000049",
+    "invigilator_id": "INV-000049",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000250",
+    "exam_id": "EXAM-2026-000250",
+    "room_id": "ROOM-000050",
+    "invigilator_id": "INV-000050",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000251",
+    "exam_id": "EXAM-2026-000251",
+    "room_id": "ROOM-000051",
+    "invigilator_id": "INV-000051",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000252",
+    "exam_id": "EXAM-2026-000252",
+    "room_id": "ROOM-000052",
+    "invigilator_id": "INV-000052",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000253",
+    "exam_id": "EXAM-2026-000253",
+    "room_id": "ROOM-000053",
+    "invigilator_id": "INV-000053",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000254",
+    "exam_id": "EXAM-2026-000254",
+    "room_id": "ROOM-000054",
+    "invigilator_id": "INV-000054",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000255",
+    "exam_id": "EXAM-2026-000255",
+    "room_id": "ROOM-000055",
+    "invigilator_id": "INV-000055",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000256",
+    "exam_id": "EXAM-2026-000256",
+    "room_id": "ROOM-000056",
+    "invigilator_id": "INV-000056",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000257",
+    "exam_id": "EXAM-2026-000257",
+    "room_id": "ROOM-000057",
+    "invigilator_id": "INV-000057",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000258",
+    "exam_id": "EXAM-2026-000258",
+    "room_id": "ROOM-000058",
+    "invigilator_id": "INV-000058",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000259",
+    "exam_id": "EXAM-2026-000259",
+    "room_id": "ROOM-000059",
+    "invigilator_id": "INV-000059",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000260",
+    "exam_id": "EXAM-2026-000260",
+    "room_id": "ROOM-000060",
+    "invigilator_id": "INV-000060",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000261",
+    "exam_id": "EXAM-2026-000261",
+    "room_id": "ROOM-000061",
+    "invigilator_id": "INV-000061",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000262",
+    "exam_id": "EXAM-2026-000262",
+    "room_id": "ROOM-000062",
+    "invigilator_id": "INV-000062",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000263",
+    "exam_id": "EXAM-2026-000263",
+    "room_id": "ROOM-000063",
+    "invigilator_id": "INV-000063",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000264",
+    "exam_id": "EXAM-2026-000264",
+    "room_id": "ROOM-000064",
+    "invigilator_id": "INV-000064",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000265",
+    "exam_id": "EXAM-2026-000265",
+    "room_id": "ROOM-000065",
+    "invigilator_id": "INV-000065",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000266",
+    "exam_id": "EXAM-2026-000266",
+    "room_id": "ROOM-000066",
+    "invigilator_id": "INV-000066",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000267",
+    "exam_id": "EXAM-2026-000267",
+    "room_id": "ROOM-000067",
+    "invigilator_id": "INV-000067",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000268",
+    "exam_id": "EXAM-2026-000268",
+    "room_id": "ROOM-000068",
+    "invigilator_id": "INV-000068",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000269",
+    "exam_id": "EXAM-2026-000269",
+    "room_id": "ROOM-000069",
+    "invigilator_id": "INV-000069",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000270",
+    "exam_id": "EXAM-2026-000270",
+    "room_id": "ROOM-000070",
+    "invigilator_id": "INV-000070",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000271",
+    "exam_id": "EXAM-2026-000271",
+    "room_id": "ROOM-000071",
+    "invigilator_id": "INV-000071",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000272",
+    "exam_id": "EXAM-2026-000272",
+    "room_id": "ROOM-000072",
+    "invigilator_id": "INV-000072",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000273",
+    "exam_id": "EXAM-2026-000273",
+    "room_id": "ROOM-000073",
+    "invigilator_id": "INV-000073",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000274",
+    "exam_id": "EXAM-2026-000274",
+    "room_id": "ROOM-000074",
+    "invigilator_id": "INV-000074",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000275",
+    "exam_id": "EXAM-2026-000275",
+    "room_id": "ROOM-000075",
+    "invigilator_id": "INV-000075",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000276",
+    "exam_id": "EXAM-2026-000276",
+    "room_id": "ROOM-000076",
+    "invigilator_id": "INV-000076",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000277",
+    "exam_id": "EXAM-2026-000277",
+    "room_id": "ROOM-000077",
+    "invigilator_id": "INV-000077",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000278",
+    "exam_id": "EXAM-2026-000278",
+    "room_id": "ROOM-000078",
+    "invigilator_id": "INV-000078",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000279",
+    "exam_id": "EXAM-2026-000279",
+    "room_id": "ROOM-000079",
+    "invigilator_id": "INV-000079",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000280",
+    "exam_id": "EXAM-2026-000280",
+    "room_id": "ROOM-000080",
+    "invigilator_id": "INV-000080",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000281",
+    "exam_id": "EXAM-2026-000281",
+    "room_id": "ROOM-000081",
+    "invigilator_id": "INV-000081",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000282",
+    "exam_id": "EXAM-2026-000282",
+    "room_id": "ROOM-000082",
+    "invigilator_id": "INV-000082",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000283",
+    "exam_id": "EXAM-2026-000283",
+    "room_id": "ROOM-000083",
+    "invigilator_id": "INV-000083",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000284",
+    "exam_id": "EXAM-2026-000284",
+    "room_id": "ROOM-000084",
+    "invigilator_id": "INV-000084",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000285",
+    "exam_id": "EXAM-2026-000285",
+    "room_id": "ROOM-000085",
+    "invigilator_id": "INV-000085",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000286",
+    "exam_id": "EXAM-2026-000286",
+    "room_id": "ROOM-000086",
+    "invigilator_id": "INV-000086",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000287",
+    "exam_id": "EXAM-2026-000287",
+    "room_id": "ROOM-000087",
+    "invigilator_id": "INV-000087",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000288",
+    "exam_id": "EXAM-2026-000288",
+    "room_id": "ROOM-000088",
+    "invigilator_id": "INV-000088",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000289",
+    "exam_id": "EXAM-2026-000289",
+    "room_id": "ROOM-000089",
+    "invigilator_id": "INV-000089",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 90,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000290",
+    "exam_id": "EXAM-2026-000290",
+    "room_id": "ROOM-000090",
+    "invigilator_id": "INV-000090",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000291",
+    "exam_id": "EXAM-2026-000291",
+    "room_id": "ROOM-000091",
+    "invigilator_id": "INV-000091",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000292",
+    "exam_id": "EXAM-2026-000292",
+    "room_id": "ROOM-000092",
+    "invigilator_id": "INV-000092",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000293",
+    "exam_id": "EXAM-2026-000293",
+    "room_id": "ROOM-000093",
+    "invigilator_id": "INV-000093",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000294",
+    "exam_id": "EXAM-2026-000294",
+    "room_id": "ROOM-000094",
+    "invigilator_id": "INV-000094",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000295",
+    "exam_id": "EXAM-2026-000295",
+    "room_id": "ROOM-000095",
+    "invigilator_id": "INV-000095",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 150,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000296",
+    "exam_id": "EXAM-2026-000296",
+    "room_id": "ROOM-000096",
+    "invigilator_id": "INV-000096",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "09:00:00"
+  },
+  {
+    "assignment_id": "ASN-000297",
+    "exam_id": "EXAM-2026-000297",
+    "room_id": "ROOM-000097",
+    "invigilator_id": "INV-000097",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "17:00:00"
+  },
+  {
+    "assignment_id": "ASN-000298",
+    "exam_id": "EXAM-2026-000298",
+    "room_id": "ROOM-000098",
+    "invigilator_id": "INV-000098",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000299",
+    "exam_id": "EXAM-2026-000299",
+    "room_id": "ROOM-000099",
+    "invigilator_id": "INV-000099",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 180,
+    "start_time": "13:00:00"
+  },
+  {
+    "assignment_id": "ASN-000300",
+    "exam_id": "EXAM-2026-000300",
+    "room_id": "ROOM-000100",
+    "invigilator_id": "INV-000100",
+    "assignment_status": "PROPOSED",
+    "decision_reason": "Generated candidate assignment; must pass scheduler validation",
+    "effective_duration_minutes": 120,
+    "start_time": "13:00:00"
+  }
+]

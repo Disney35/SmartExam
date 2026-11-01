@@ -1,0 +1,37 @@
+[
+  {
+    "case_id": "EDGE-001",
+    "case_type": "STUDENT_OVERLAPPING_EXAMS",
+    "description": "One student is enrolled in two exams scheduled in the same time slot.",
+    "expected_result": "CONFLICT_DETECTED",
+    "severity": "HIGH"
+  },
+  {
+    "case_id": "EDGE-002",
+    "case_type": "ROOM_CAPACITY_EXCEEDED",
+    "description": "Candidate room capacity is lower than the number of enrolled students.",
+    "expected_result": "ROOM_REJECTED",
+    "severity": "HIGH"
+  },
+  {
+    "case_id": "EDGE-003",
+    "case_type": "INVIGILATOR_DOUBLE_BOOKED",
+    "description": "One invigilator is assigned to overlapping examinations.",
+    "expected_result": "CONFLICT_DETECTED",
+    "severity": "HIGH"
+  },
+  {
+    "case_id": "EDGE-004",
+    "case_type": "ACCOMMODATION_REQUIRED",
+    "description": "A student requires additional examination time.",
+    "expected_result": "EXTRA_TIME_REQUIRED",
+    "severity": "HIGH"
+  },
+  {
+    "case_id": "EDGE-005",
+    "case_type": "ROOM_UNAVAILABLE",
+    "description": "A room is unavailable during the requested examination time.",
+    "expected_result": "ROOM_REJECTED",
+    "severity": "HIGH"
+  }
+]

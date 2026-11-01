@@ -1,0 +1,2402 @@
+[
+  {
+    "requirement_id": "REQ-000001",
+    "exam_id": "EXAM-2026-000001",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000002",
+    "exam_id": "EXAM-2026-000002",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000003",
+    "exam_id": "EXAM-2026-000003",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000004",
+    "exam_id": "EXAM-2026-000004",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000005",
+    "exam_id": "EXAM-2026-000005",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000006",
+    "exam_id": "EXAM-2026-000006",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000007",
+    "exam_id": "EXAM-2026-000007",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000008",
+    "exam_id": "EXAM-2026-000008",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000009",
+    "exam_id": "EXAM-2026-000009",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000010",
+    "exam_id": "EXAM-2026-000010",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000011",
+    "exam_id": "EXAM-2026-000011",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000012",
+    "exam_id": "EXAM-2026-000012",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000013",
+    "exam_id": "EXAM-2026-000013",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000014",
+    "exam_id": "EXAM-2026-000014",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000015",
+    "exam_id": "EXAM-2026-000015",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000016",
+    "exam_id": "EXAM-2026-000016",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000017",
+    "exam_id": "EXAM-2026-000017",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000018",
+    "exam_id": "EXAM-2026-000018",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000019",
+    "exam_id": "EXAM-2026-000019",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000020",
+    "exam_id": "EXAM-2026-000020",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000021",
+    "exam_id": "EXAM-2026-000021",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000022",
+    "exam_id": "EXAM-2026-000022",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000023",
+    "exam_id": "EXAM-2026-000023",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000024",
+    "exam_id": "EXAM-2026-000024",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000025",
+    "exam_id": "EXAM-2026-000025",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000026",
+    "exam_id": "EXAM-2026-000026",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000027",
+    "exam_id": "EXAM-2026-000027",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000028",
+    "exam_id": "EXAM-2026-000028",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000029",
+    "exam_id": "EXAM-2026-000029",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000030",
+    "exam_id": "EXAM-2026-000030",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000031",
+    "exam_id": "EXAM-2026-000031",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000032",
+    "exam_id": "EXAM-2026-000032",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000033",
+    "exam_id": "EXAM-2026-000033",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000034",
+    "exam_id": "EXAM-2026-000034",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000035",
+    "exam_id": "EXAM-2026-000035",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000036",
+    "exam_id": "EXAM-2026-000036",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000037",
+    "exam_id": "EXAM-2026-000037",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000038",
+    "exam_id": "EXAM-2026-000038",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000039",
+    "exam_id": "EXAM-2026-000039",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000040",
+    "exam_id": "EXAM-2026-000040",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000041",
+    "exam_id": "EXAM-2026-000041",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000042",
+    "exam_id": "EXAM-2026-000042",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000043",
+    "exam_id": "EXAM-2026-000043",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000044",
+    "exam_id": "EXAM-2026-000044",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000045",
+    "exam_id": "EXAM-2026-000045",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000046",
+    "exam_id": "EXAM-2026-000046",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000047",
+    "exam_id": "EXAM-2026-000047",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000048",
+    "exam_id": "EXAM-2026-000048",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000049",
+    "exam_id": "EXAM-2026-000049",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000050",
+    "exam_id": "EXAM-2026-000050",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000051",
+    "exam_id": "EXAM-2026-000051",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000052",
+    "exam_id": "EXAM-2026-000052",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000053",
+    "exam_id": "EXAM-2026-000053",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000054",
+    "exam_id": "EXAM-2026-000054",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000055",
+    "exam_id": "EXAM-2026-000055",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000056",
+    "exam_id": "EXAM-2026-000056",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000057",
+    "exam_id": "EXAM-2026-000057",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000058",
+    "exam_id": "EXAM-2026-000058",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000059",
+    "exam_id": "EXAM-2026-000059",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000060",
+    "exam_id": "EXAM-2026-000060",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000061",
+    "exam_id": "EXAM-2026-000061",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000062",
+    "exam_id": "EXAM-2026-000062",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000063",
+    "exam_id": "EXAM-2026-000063",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000064",
+    "exam_id": "EXAM-2026-000064",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000065",
+    "exam_id": "EXAM-2026-000065",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000066",
+    "exam_id": "EXAM-2026-000066",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000067",
+    "exam_id": "EXAM-2026-000067",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000068",
+    "exam_id": "EXAM-2026-000068",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000069",
+    "exam_id": "EXAM-2026-000069",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000070",
+    "exam_id": "EXAM-2026-000070",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000071",
+    "exam_id": "EXAM-2026-000071",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000072",
+    "exam_id": "EXAM-2026-000072",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000073",
+    "exam_id": "EXAM-2026-000073",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000074",
+    "exam_id": "EXAM-2026-000074",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000075",
+    "exam_id": "EXAM-2026-000075",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000076",
+    "exam_id": "EXAM-2026-000076",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000077",
+    "exam_id": "EXAM-2026-000077",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000078",
+    "exam_id": "EXAM-2026-000078",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000079",
+    "exam_id": "EXAM-2026-000079",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000080",
+    "exam_id": "EXAM-2026-000080",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000081",
+    "exam_id": "EXAM-2026-000081",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000082",
+    "exam_id": "EXAM-2026-000082",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000083",
+    "exam_id": "EXAM-2026-000083",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000084",
+    "exam_id": "EXAM-2026-000084",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000085",
+    "exam_id": "EXAM-2026-000085",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000086",
+    "exam_id": "EXAM-2026-000086",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000087",
+    "exam_id": "EXAM-2026-000087",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000088",
+    "exam_id": "EXAM-2026-000088",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000089",
+    "exam_id": "EXAM-2026-000089",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000090",
+    "exam_id": "EXAM-2026-000090",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000091",
+    "exam_id": "EXAM-2026-000091",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000092",
+    "exam_id": "EXAM-2026-000092",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000093",
+    "exam_id": "EXAM-2026-000093",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000094",
+    "exam_id": "EXAM-2026-000094",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000095",
+    "exam_id": "EXAM-2026-000095",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000096",
+    "exam_id": "EXAM-2026-000096",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000097",
+    "exam_id": "EXAM-2026-000097",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000098",
+    "exam_id": "EXAM-2026-000098",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000099",
+    "exam_id": "EXAM-2026-000099",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000100",
+    "exam_id": "EXAM-2026-000100",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000101",
+    "exam_id": "EXAM-2026-000101",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000102",
+    "exam_id": "EXAM-2026-000102",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000103",
+    "exam_id": "EXAM-2026-000103",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000104",
+    "exam_id": "EXAM-2026-000104",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000105",
+    "exam_id": "EXAM-2026-000105",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000106",
+    "exam_id": "EXAM-2026-000106",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000107",
+    "exam_id": "EXAM-2026-000107",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000108",
+    "exam_id": "EXAM-2026-000108",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000109",
+    "exam_id": "EXAM-2026-000109",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000110",
+    "exam_id": "EXAM-2026-000110",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000111",
+    "exam_id": "EXAM-2026-000111",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000112",
+    "exam_id": "EXAM-2026-000112",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000113",
+    "exam_id": "EXAM-2026-000113",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000114",
+    "exam_id": "EXAM-2026-000114",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000115",
+    "exam_id": "EXAM-2026-000115",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000116",
+    "exam_id": "EXAM-2026-000116",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000117",
+    "exam_id": "EXAM-2026-000117",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000118",
+    "exam_id": "EXAM-2026-000118",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000119",
+    "exam_id": "EXAM-2026-000119",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000120",
+    "exam_id": "EXAM-2026-000120",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000121",
+    "exam_id": "EXAM-2026-000121",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000122",
+    "exam_id": "EXAM-2026-000122",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000123",
+    "exam_id": "EXAM-2026-000123",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000124",
+    "exam_id": "EXAM-2026-000124",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000125",
+    "exam_id": "EXAM-2026-000125",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000126",
+    "exam_id": "EXAM-2026-000126",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000127",
+    "exam_id": "EXAM-2026-000127",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000128",
+    "exam_id": "EXAM-2026-000128",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000129",
+    "exam_id": "EXAM-2026-000129",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000130",
+    "exam_id": "EXAM-2026-000130",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000131",
+    "exam_id": "EXAM-2026-000131",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000132",
+    "exam_id": "EXAM-2026-000132",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000133",
+    "exam_id": "EXAM-2026-000133",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000134",
+    "exam_id": "EXAM-2026-000134",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000135",
+    "exam_id": "EXAM-2026-000135",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000136",
+    "exam_id": "EXAM-2026-000136",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000137",
+    "exam_id": "EXAM-2026-000137",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000138",
+    "exam_id": "EXAM-2026-000138",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000139",
+    "exam_id": "EXAM-2026-000139",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000140",
+    "exam_id": "EXAM-2026-000140",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000141",
+    "exam_id": "EXAM-2026-000141",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000142",
+    "exam_id": "EXAM-2026-000142",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000143",
+    "exam_id": "EXAM-2026-000143",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000144",
+    "exam_id": "EXAM-2026-000144",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000145",
+    "exam_id": "EXAM-2026-000145",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000146",
+    "exam_id": "EXAM-2026-000146",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000147",
+    "exam_id": "EXAM-2026-000147",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000148",
+    "exam_id": "EXAM-2026-000148",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000149",
+    "exam_id": "EXAM-2026-000149",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000150",
+    "exam_id": "EXAM-2026-000150",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000151",
+    "exam_id": "EXAM-2026-000151",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000152",
+    "exam_id": "EXAM-2026-000152",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000153",
+    "exam_id": "EXAM-2026-000153",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000154",
+    "exam_id": "EXAM-2026-000154",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000155",
+    "exam_id": "EXAM-2026-000155",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000156",
+    "exam_id": "EXAM-2026-000156",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000157",
+    "exam_id": "EXAM-2026-000157",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000158",
+    "exam_id": "EXAM-2026-000158",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000159",
+    "exam_id": "EXAM-2026-000159",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000160",
+    "exam_id": "EXAM-2026-000160",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000161",
+    "exam_id": "EXAM-2026-000161",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000162",
+    "exam_id": "EXAM-2026-000162",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000163",
+    "exam_id": "EXAM-2026-000163",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000164",
+    "exam_id": "EXAM-2026-000164",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000165",
+    "exam_id": "EXAM-2026-000165",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000166",
+    "exam_id": "EXAM-2026-000166",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000167",
+    "exam_id": "EXAM-2026-000167",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000168",
+    "exam_id": "EXAM-2026-000168",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000169",
+    "exam_id": "EXAM-2026-000169",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000170",
+    "exam_id": "EXAM-2026-000170",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000171",
+    "exam_id": "EXAM-2026-000171",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000172",
+    "exam_id": "EXAM-2026-000172",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000173",
+    "exam_id": "EXAM-2026-000173",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000174",
+    "exam_id": "EXAM-2026-000174",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000175",
+    "exam_id": "EXAM-2026-000175",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000176",
+    "exam_id": "EXAM-2026-000176",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000177",
+    "exam_id": "EXAM-2026-000177",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000178",
+    "exam_id": "EXAM-2026-000178",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000179",
+    "exam_id": "EXAM-2026-000179",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000180",
+    "exam_id": "EXAM-2026-000180",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000181",
+    "exam_id": "EXAM-2026-000181",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000182",
+    "exam_id": "EXAM-2026-000182",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000183",
+    "exam_id": "EXAM-2026-000183",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000184",
+    "exam_id": "EXAM-2026-000184",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000185",
+    "exam_id": "EXAM-2026-000185",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000186",
+    "exam_id": "EXAM-2026-000186",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000187",
+    "exam_id": "EXAM-2026-000187",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000188",
+    "exam_id": "EXAM-2026-000188",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000189",
+    "exam_id": "EXAM-2026-000189",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000190",
+    "exam_id": "EXAM-2026-000190",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000191",
+    "exam_id": "EXAM-2026-000191",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000192",
+    "exam_id": "EXAM-2026-000192",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000193",
+    "exam_id": "EXAM-2026-000193",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000194",
+    "exam_id": "EXAM-2026-000194",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000195",
+    "exam_id": "EXAM-2026-000195",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000196",
+    "exam_id": "EXAM-2026-000196",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000197",
+    "exam_id": "EXAM-2026-000197",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000198",
+    "exam_id": "EXAM-2026-000198",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000199",
+    "exam_id": "EXAM-2026-000199",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000200",
+    "exam_id": "EXAM-2026-000200",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000201",
+    "exam_id": "EXAM-2026-000201",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000202",
+    "exam_id": "EXAM-2026-000202",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000203",
+    "exam_id": "EXAM-2026-000203",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000204",
+    "exam_id": "EXAM-2026-000204",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000205",
+    "exam_id": "EXAM-2026-000205",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000206",
+    "exam_id": "EXAM-2026-000206",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000207",
+    "exam_id": "EXAM-2026-000207",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000208",
+    "exam_id": "EXAM-2026-000208",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000209",
+    "exam_id": "EXAM-2026-000209",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000210",
+    "exam_id": "EXAM-2026-000210",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000211",
+    "exam_id": "EXAM-2026-000211",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000212",
+    "exam_id": "EXAM-2026-000212",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000213",
+    "exam_id": "EXAM-2026-000213",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000214",
+    "exam_id": "EXAM-2026-000214",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000215",
+    "exam_id": "EXAM-2026-000215",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000216",
+    "exam_id": "EXAM-2026-000216",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000217",
+    "exam_id": "EXAM-2026-000217",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000218",
+    "exam_id": "EXAM-2026-000218",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000219",
+    "exam_id": "EXAM-2026-000219",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000220",
+    "exam_id": "EXAM-2026-000220",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000221",
+    "exam_id": "EXAM-2026-000221",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000222",
+    "exam_id": "EXAM-2026-000222",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000223",
+    "exam_id": "EXAM-2026-000223",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000224",
+    "exam_id": "EXAM-2026-000224",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000225",
+    "exam_id": "EXAM-2026-000225",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000226",
+    "exam_id": "EXAM-2026-000226",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000227",
+    "exam_id": "EXAM-2026-000227",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000228",
+    "exam_id": "EXAM-2026-000228",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000229",
+    "exam_id": "EXAM-2026-000229",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000230",
+    "exam_id": "EXAM-2026-000230",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000231",
+    "exam_id": "EXAM-2026-000231",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000232",
+    "exam_id": "EXAM-2026-000232",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000233",
+    "exam_id": "EXAM-2026-000233",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000234",
+    "exam_id": "EXAM-2026-000234",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000235",
+    "exam_id": "EXAM-2026-000235",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000236",
+    "exam_id": "EXAM-2026-000236",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000237",
+    "exam_id": "EXAM-2026-000237",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000238",
+    "exam_id": "EXAM-2026-000238",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000239",
+    "exam_id": "EXAM-2026-000239",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000240",
+    "exam_id": "EXAM-2026-000240",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000241",
+    "exam_id": "EXAM-2026-000241",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000242",
+    "exam_id": "EXAM-2026-000242",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000243",
+    "exam_id": "EXAM-2026-000243",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000244",
+    "exam_id": "EXAM-2026-000244",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000245",
+    "exam_id": "EXAM-2026-000245",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000246",
+    "exam_id": "EXAM-2026-000246",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000247",
+    "exam_id": "EXAM-2026-000247",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000248",
+    "exam_id": "EXAM-2026-000248",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000249",
+    "exam_id": "EXAM-2026-000249",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000250",
+    "exam_id": "EXAM-2026-000250",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000251",
+    "exam_id": "EXAM-2026-000251",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000252",
+    "exam_id": "EXAM-2026-000252",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000253",
+    "exam_id": "EXAM-2026-000253",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000254",
+    "exam_id": "EXAM-2026-000254",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000255",
+    "exam_id": "EXAM-2026-000255",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000256",
+    "exam_id": "EXAM-2026-000256",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000257",
+    "exam_id": "EXAM-2026-000257",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000258",
+    "exam_id": "EXAM-2026-000258",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000259",
+    "exam_id": "EXAM-2026-000259",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000260",
+    "exam_id": "EXAM-2026-000260",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000261",
+    "exam_id": "EXAM-2026-000261",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000262",
+    "exam_id": "EXAM-2026-000262",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000263",
+    "exam_id": "EXAM-2026-000263",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000264",
+    "exam_id": "EXAM-2026-000264",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000265",
+    "exam_id": "EXAM-2026-000265",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000266",
+    "exam_id": "EXAM-2026-000266",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000267",
+    "exam_id": "EXAM-2026-000267",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000268",
+    "exam_id": "EXAM-2026-000268",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000269",
+    "exam_id": "EXAM-2026-000269",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000270",
+    "exam_id": "EXAM-2026-000270",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000271",
+    "exam_id": "EXAM-2026-000271",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000272",
+    "exam_id": "EXAM-2026-000272",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000273",
+    "exam_id": "EXAM-2026-000273",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000274",
+    "exam_id": "EXAM-2026-000274",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000275",
+    "exam_id": "EXAM-2026-000275",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000276",
+    "exam_id": "EXAM-2026-000276",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000277",
+    "exam_id": "EXAM-2026-000277",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000278",
+    "exam_id": "EXAM-2026-000278",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000279",
+    "exam_id": "EXAM-2026-000279",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000280",
+    "exam_id": "EXAM-2026-000280",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000281",
+    "exam_id": "EXAM-2026-000281",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000282",
+    "exam_id": "EXAM-2026-000282",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000283",
+    "exam_id": "EXAM-2026-000283",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000284",
+    "exam_id": "EXAM-2026-000284",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000285",
+    "exam_id": "EXAM-2026-000285",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000286",
+    "exam_id": "EXAM-2026-000286",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000287",
+    "exam_id": "EXAM-2026-000287",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000288",
+    "exam_id": "EXAM-2026-000288",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000289",
+    "exam_id": "EXAM-2026-000289",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000290",
+    "exam_id": "EXAM-2026-000290",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000291",
+    "exam_id": "EXAM-2026-000291",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000292",
+    "exam_id": "EXAM-2026-000292",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000293",
+    "exam_id": "EXAM-2026-000293",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000294",
+    "exam_id": "EXAM-2026-000294",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000295",
+    "exam_id": "EXAM-2026-000295",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000296",
+    "exam_id": "EXAM-2026-000296",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000297",
+    "exam_id": "EXAM-2026-000297",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000298",
+    "exam_id": "EXAM-2026-000298",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000299",
+    "exam_id": "EXAM-2026-000299",
+    "required_room_type": "EXAM_HALL",
+    "required_equipment": "",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  },
+  {
+    "requirement_id": "REQ-000300",
+    "exam_id": "EXAM-2026-000300",
+    "required_room_type": "LAB",
+    "required_equipment": "PROJECTOR",
+    "minimum_capacity": 30,
+    "invigilators_required": 1
+  }
+]
